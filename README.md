@@ -1,1 +1,2 @@
-# Crawl data kết quả sổ xố Miền Bắc và phân tích 
+# Crawl data of the Northern Vietnam lottery results and analyze.
+We crawled data about 5000 days of the Northern Vietnam lottery results, and analyzed it.
